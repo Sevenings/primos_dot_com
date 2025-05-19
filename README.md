@@ -13,6 +13,15 @@ Sistema de registro de partidas dos primos.
   - [ ] Página de Login
   - [ ] Página de Perfil
   - [ ] Página Principal
+  - [ ] Página Visualizar Partidas
 - [ ] Banco de dados
+  - [ ] Tabela de usuários
   - [ ] Tabela de Jogos / Categorias
   - [ ] Tabela de Partidas
+- [ ] CRUD
+  - [ ] Registrar partida
+  - [ ] Remover registro
+  - [ ] Editar registro
+  - [ ] Registrar Jogo / Categoria
+  - [ ] Remover Categoria
+  - [ ] Editar Categoria
