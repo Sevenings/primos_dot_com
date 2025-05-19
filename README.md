@@ -25,3 +25,12 @@ Sistema de registro de partidas dos primos.
   - [ ] Registrar Jogo / Categoria
   - [ ] Remover Categoria
   - [ ] Editar Categoria
+
+**Features Extra:**
+- [ ] Sistema de Pontuação
+- [ ] Sistema de Ranking
+- [ ] Primo do Mês
+- [ ] Agendar Partidas
+- [ ] Chat privado
+- [ ] Comentários das partidas
+- [ ] Experiência
